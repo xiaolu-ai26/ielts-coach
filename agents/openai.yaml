@@ -1,0 +1,4 @@
+interface:
+  display_name: "雅思 AI 备考教练"
+  short_description: "贯通诊断、听说读写、语音陪练、错题重练与模考复盘的备考流程"
+  default_prompt: "用 $ielts-coach 根据我的目标和当前水平安排雅思备考，先开始今天最有用的练习。"
